@@ -4,15 +4,13 @@
 **Pay:** $67k-$110.6k | **Remote:** NOT confirmed (listed Hartford, CT)
 **Do this first:** Before you apply, check the posting on careers.travelers.com for a remote tag. If it's in-office only, skip it.
 
-**Confirm before sending:** that your P&C license is a Louisiana resident license and it's active.
-
 ---
 
 Dear InsuraMatch Hiring Team,
 
-I'm applying for the Wholesale/E&S Commercial Lines Underwriter role. I meet your must-haves: more than two years in insurance with E&S and MGA-side work, and an active Property & Casualty producer license in Louisiana.
+I'm applying for the Wholesale/E&S Commercial Lines Underwriter role. I meet your must-haves: more than two years in insurance with E&S and MGA-side work, an active Property & Casualty license in Louisiana, and an Excess & Surplus Lines license that covers all 50 states.
 
-Most recently I was a Brokerage Placement Specialist on the E&S property desk at Farmers Insurance Group. I reviewed submissions for completeness, asked for what was missing, checked eligibility and exposure against guidelines, and moved accounts toward placement. Before that, I worked for years at a State Farm agency in South Louisiana, working directly with customers on coverage and price.
+Most recently I was a Brokerage Placement Specialist on the E&S property desk at Farmers Insurance Group. I reviewed submissions for completeness, asked for what was missing, checked eligibility and exposure against guidelines, and underwrote homeowners risks in the non-admitted market, plus some admitted, inland marine, and flood. I worked 20-25 files a day, earned a 98% quality score for 2025, and wrote homes valued up to $10 million. Before that, I worked for years at a State Farm agency in South Louisiana, working directly with customers on coverage and price.
 
 What I'd bring to InsuraMatch:
 

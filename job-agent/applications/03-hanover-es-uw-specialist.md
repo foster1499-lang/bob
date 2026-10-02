@@ -10,16 +10,16 @@ Dear Hanover Hiring Team,
 
 I'm applying for the E&S Underwriting Specialist role on your Merit Specialty wholesale team. The posting says the title can be leveled to Underwriter Specialty, and that's the fit I'm asking you to consider.
 
-Most recently I was a Brokerage Placement Specialist in E&S at Farmers Insurance Group. My days were spent on submission review, eligibility and exposure analysis, and matching accounts to carrier appetite and guidelines. Before that, I worked for years at a State Farm agency in South Louisiana, building trust with customers and explaining coverage in plain language.
+Most recently I was a Brokerage Placement Specialist in E&S at Farmers Insurance Group. I underwrote homeowners risks in the non-admitted market, reviewing submissions for eligibility, exposure, and fit with carrier appetite. I worked 20-25 files a day, earned a 98% quality score for 2025, and wrote homes valued up to $10 million. Before that, I worked for years at a State Farm agency in South Louisiana, building trust with customers and explaining coverage in plain language. I was the top producer in that office's history and made President's Club three years running.
 
 Why I'd do well here:
 
 - **I know the wholesale side.** I understand how a submission moves through E&S, and what wholesale partners need to close.
 - **I build trust fast.** I've always won business by teaching people what they're buying, not by pushing.
-- **I'm a hazard spotter by training.** I started as an HSE coordinator. Finding exposures and asking the right questions on a thin submission comes naturally to me.
+- **I'm a hazard spotter by training.** I also worked as an HSE coordinator. Finding exposures and asking the right questions on a thin submission comes naturally to me.
 - **I document my decisions.** My files explain the "why" so a manager or auditor can follow every call.
 
-My background is stronger in property than casualty, and I'm ready to put in the work to learn your casualty appetite fast. I hold active P&C and Life & Health licenses.
+My background is stronger in property than casualty, and I'm ready to put in the work to learn your casualty appetite fast. I hold an E&S license (Louisiana resident, licensed in all 50 states), plus P&C and Life & Health.
 
 Thank you for your time. I'd welcome a conversation.
 
