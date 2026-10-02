@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# never commit real resumes or personal docs
+job-agent/resume/*.pdf
+job-agent/resume/*.docx
+job-agent/resume/*.doc

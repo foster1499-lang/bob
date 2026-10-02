@@ -5,7 +5,8 @@ Context for Claude Code sessions in this repo. Read this first, every session.
 ## Who I am
 
 - Justin Foster, Broussard, Louisiana
-- 10+ years in insurance, finance, and risk. Expert in homeowner/property underwriting and flood insurance.
+- 6.5 years in insurance (since Jan 2020), mainly homeowners/personal lines property, plus E&S property brokerage placement. Never say "10+ years".
+- Job targets: remote only, $75,000 pay floor. Underwriting roles first.
 - Strengths: building trust fast, educating instead of selling, decision-making, training others.
 - Rebuilding after a job loss in August. **Stable income is the #1 priority**; long-term business building is #2.
 
