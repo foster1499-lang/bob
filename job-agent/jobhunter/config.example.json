@@ -1,0 +1,33 @@
+{
+  "search_terms": ["AI trainer", "AI writing evaluator", "customer service remote"],
+  "location": "United States",
+  "country": "usa",
+  "remote_only": true,
+  "sites": ["indeed", "linkedin", "zip_recruiter", "google"],
+  "results_per_site": 25,
+  "hours_old": 72,
+
+  "min_annual_pay": 40000,
+  "title_must_include_any": ["trainer", "evaluator", "annotator", "rater", "customer", "support"],
+  "exclude_keywords": ["senior engineer", "nurse", "driver", "sales"],
+  "keywords": {
+    "ai trainer": 10,
+    "writing": 6,
+    "evaluation": 5,
+    "customer service": 5,
+    "part-time": 3,
+    "flexible": 3
+  },
+
+  "letters_for_top": 10,
+  "candidate": {
+    "name": "Your Name",
+    "summary": "I bring 5 years of customer-facing experience and a track record of clear, accurate writing.",
+    "highlights": [
+      "Handled 60+ customer conversations a day with a 95% satisfaction score",
+      "Wrote and maintained the team's internal how-to guides",
+      "Comfortable learning new software fast and working on my own schedule"
+    ],
+    "skills": ["writing", "customer service", "research", "attention to detail", "evaluation"]
+  }
+}

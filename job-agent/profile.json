@@ -1,0 +1,21 @@
+{
+  "name": "Justin Foster",
+  "home_base": "Broussard, LA",
+  "years_experience": 6.5,
+  "pay_floor": 75000,
+  "remote_ok": ["full", "likely", "unknown"],
+  "line_weights": {
+    "personal_property": 35,
+    "commercial_property": 30,
+    "commercial_multi": 20,
+    "casualty": 12,
+    "other": 5
+  },
+  "background": [
+    "Brokerage Placement Specialist, E&S Property - Farmers Insurance Group (most recent)",
+    "State Farm agency (Erik Guillory) - homeowners/personal lines, from Jan 2020",
+    "HSE Coordinator - AMCOL (2018)",
+    "B.S., University of Southern Mississippi",
+    "Licenses: Property & Casualty; Life & Health"
+  ]
+}
