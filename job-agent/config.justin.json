@@ -1,0 +1,37 @@
+{
+  "search_terms": ["homeowners underwriter", "property underwriter", "personal lines underwriter", "E&S property underwriter", "flood insurance underwriter"],
+  "location": "United States",
+  "country": "usa",
+  "remote_only": true,
+  "sites": ["indeed", "linkedin", "zip_recruiter", "google"],
+  "results_per_site": 30,
+  "hours_old": 48,
+
+  "min_annual_pay": 75000,
+  "title_must_include_any": ["underwriter", "underwriting", "flood", "surplus", "property"],
+  "exclude_keywords": ["mortgage", "loan", "life", "health", "medical", "auto", "workers compensation", "trainee", "intern", "property manager", "property management", "appraiser"],
+  "keywords": {
+    "homeowners": 10,
+    "personal lines": 9,
+    "property": 8,
+    "excess and surplus": 8,
+    "e&s": 8,
+    "flood": 7,
+    "high net worth": 6,
+    "underwriter": 6,
+    "dwelling": 5,
+    "inland marine": 3
+  },
+
+  "letters_for_top": 5,
+  "candidate": {
+    "name": "Justin Foster",
+    "summary": "I'm a licensed property underwriter with 6+ years in property and personal lines, including two years underwriting homeowners risks in the E&S market, and I'm surplus lines licensed in all 50 states.",
+    "highlights": [
+      "Underwrote 20-25 E&S and admitted homeowners, inland marine, and flood files a day at Farmers, including high net worth homes valued up to $10 million",
+      "Earned a 98% quality assurance score for 2025 on surplus lines files, where every form and filing must be exact",
+      "Three-time President's Club producer at State Farm with over $1 million in premium written"
+    ],
+    "skills": ["homeowners", "property", "surplus lines", "flood", "high net worth", "inland marine", "underwriting", "eligibility", "carrier guidelines"]
+  }
+}
