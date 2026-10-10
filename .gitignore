@@ -4,3 +4,6 @@ __pycache__/
 job-agent/resume/*.pdf
 job-agent/resume/*.docx
 job-agent/resume/*.doc
+
+# build artifact; rebuild from job-agent/jobhunter
+job-agent/reports/jobhunter.zip
