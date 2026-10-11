@@ -1,0 +1,31 @@
+name: Job agent
+
+on:
+  schedule:
+    - cron: "47 12 * * *"  # 7:47am Central (CDT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Find and score jobs
+        working-directory: job-agent
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python agent.py
+      - name: Commit report
+        run: |
+          git config user.name "job-agent"
+          git config user.email "job-agent@users.noreply.github.com"
+          git add job-agent/reports/latest.md job-agent/seen.json
+          git diff --cached --quiet || git commit -m "Job agent: daily matches $(date -u +%F)"
+          git push
