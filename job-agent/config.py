@@ -82,7 +82,7 @@ DRAFTS_FOR_TOP = 5
 PROFILE = {
     "name": "Justin",
     "location": "Broussard, Louisiana (Central Time)",
-    "years": "10+",
+    "years": "6+",
     "roles": [
         "Brokerage Placement Specialist, E&S Property at Farmers Insurance Group",
         "Multi-Line Insurance Agent at a State Farm agency",
