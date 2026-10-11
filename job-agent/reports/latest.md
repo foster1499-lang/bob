@@ -1,105 +1,17 @@
-# Job matches: 2026-10-10 19:02 UTC
+# Job matches: 2026-10-11 12:58 UTC
 
-25 new matches out of 392 jobs scanned.
+16 new matches out of 392 jobs scanned.
 
-## 1. [Underwriting Associate](https://job-boards.greenhouse.io/pieinsurance/jobs/6208650004) — Pie Insurance
-Score 63 · United States · salary n/a · 2026-09-25 · greenhouse
-Why: title:underwrit, underwriting, commercial lines, insurance, remote
-
-<details><summary>Draft cover letter</summary>
-
-```
-Hi Pie Insurance team,
-
-I'm applying for the Underwriting Associate role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
-
-What I'd bring on day one:
-- Sound risk decisions made quickly, with clear documentation behind them
-- The ability to explain coverage plainly to agents, insureds and teammates
-- Experience training others and tightening up processes
-
-I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
-
-Justin
-```
-</details>
-
-## 2. [Senior/Executive Underwriter, West](https://www.coalitioninc.com/job-posting?gh_jid=4731902005) — Coalition, Inc.
-Score 61 · Any location, United States · salary n/a · 2026-09-09 · greenhouse
-Why: title:underwrit, underwriting, insurance, carrier, remote
-
-<details><summary>Draft cover letter</summary>
-
-```
-Hi Coalition, Inc. team,
-
-I'm applying for the Senior/Executive Underwriter, West role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
-
-What I'd bring on day one:
-- Sound risk decisions made quickly, with clear documentation behind them
-- The ability to explain coverage plainly to agents, insureds and teammates
-- Experience training others and tightening up processes
-
-I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
-
-Justin
-```
-</details>
-
-## 3. [Senior Underwriter, Southeast](https://www.coalitioninc.com/job-posting?gh_jid=4734274005) — Coalition, Inc.
-Score 61 · Any location, United States · salary n/a · 2026-09-15 · greenhouse
-Why: title:underwrit, underwriting, insurance, carrier, remote
-
-<details><summary>Draft cover letter</summary>
-
-```
-Hi Coalition, Inc. team,
-
-I'm applying for the Senior Underwriter, Southeast role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
-
-What I'd bring on day one:
-- Sound risk decisions made quickly, with clear documentation behind them
-- The ability to explain coverage plainly to agents, insureds and teammates
-- Experience training others and tightening up processes
-
-I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
-
-Justin
-```
-</details>
-
-## 4. [Underwriting Lead, Cyber Portfolio Underwriting](https://www.coalitioninc.com/job-posting?gh_jid=4742033005) — Coalition, Inc.
-Score 61 · Any location, United States · salary n/a · 2026-10-08 · greenhouse
-Why: title:underwrit, underwriting, insurance, carrier, remote
-
-<details><summary>Draft cover letter</summary>
-
-```
-Hi Coalition, Inc. team,
-
-I'm applying for the Underwriting Lead, Cyber Portfolio Underwriting role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
-
-What I'd bring on day one:
-- Sound risk decisions made quickly, with clear documentation behind them
-- The ability to explain coverage plainly to agents, insureds and teammates
-- Experience training others and tightening up processes
-
-I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
-
-Justin
-```
-</details>
-
-## 5. [Senior Underwriter, Workers Compensation](https://job-boards.greenhouse.io/pieinsurance/jobs/6218683004) — Pie Insurance
-Score 61 · United States · salary n/a · 2026-10-09 · greenhouse
-Why: title:underwrit, underwriting, property, insurance, remote
+## 1. [CA - Senior Claims Adjuster, Worker's Compensation](https://job-boards.greenhouse.io/pieinsurance/jobs/6119581004) — Pie Insurance
+Score 41 · United States · salary n/a · 2026-07-22 · greenhouse
+Why: title:claims, title:adjuster, insurance, carrier, remote
 
 <details><summary>Draft cover letter</summary>
 
 ```
 Hi Pie Insurance team,
 
-I'm applying for the Senior Underwriter, Workers Compensation role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
+I'm applying for the CA - Senior Claims Adjuster, Worker's Compensation role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is property and casualty insurance.
 
 What I'd bring on day one:
 - Sound risk decisions made quickly, with clear documentation behind them
@@ -112,82 +24,134 @@ Justin
 ```
 </details>
 
-## 6. [Vice President, Field Underwriting](https://job-boards.greenhouse.io/pieinsurance/jobs/6115489004) — Pie Insurance
-Score 61 · United States · salary n/a · 2026-07-14 · greenhouse
-Why: title:underwrit, underwriting, insurance, carrier, remote
+## 2. [Complex Claims Adjuster](https://job-boards.greenhouse.io/pieinsurance/jobs/6181109004) — Pie Insurance
+Score 41 · United States · salary n/a · 2026-09-03 · greenhouse
+Why: title:claims, title:adjuster, insurance, carrier, remote
 
-## 7. [Sr. Property Claims Adjuster](https://jobs.ashbyhq.com/steadily/514b2392-c837-4db6-b068-6f348333b9d2) — steadily
-Score 61 · Overland Park, KS · salary n/a · 2026-06-15 · ashby
-Why: title:property, title:claims, title:adjuster, homeowner, property, insurance
+<details><summary>Draft cover letter</summary>
 
-## 8. [Senior Manager, Underwriting](https://job-boards.greenhouse.io/pieinsurance/jobs/6002913004) — Pie Insurance
-Score 57 · United States · salary n/a · 2026-05-22 · greenhouse
-Why: title:underwrit, underwriting, insurance, remote
+```
+Hi Pie Insurance team,
 
-## 9. [Underwriter, Workers' Compensation](https://job-boards.greenhouse.io/pieinsurance/jobs/6030766004) — Pie Insurance
-Score 57 · United States · salary n/a · 2026-06-17 · greenhouse
-Why: title:underwrit, underwriting, insurance, remote
+I'm applying for the Complex Claims Adjuster role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is property and casualty insurance.
 
-## 10. [Claims Adjuster (Remote Contract)](https://jobs.ashbyhq.com/steadily/1cb1dcdf-c310-4d12-9f53-9cc45eba02b9) — steadily
-Score 53 · Remote · salary n/a · 2026-10-06 · ashby
-Why: title:claims, title:adjuster, homeowner, property, insurance, carrier, remote
+What I'd bring on day one:
+- Sound risk decisions made quickly, with clear documentation behind them
+- The ability to explain coverage plainly to agents, insureds and teammates
+- Experience training others and tightening up processes
 
-## 11. [Staff Analyst - Insurance Product & Countrywide Advanced Analytics (Remote, US)](https://jobs.ashbyhq.com/openly/6a1bfa0e-a1b3-44bf-b683-965dded4340a) — openly
-Score 49 · Remote - United States · salary n/a · 2026-09-03 · ashby
-Why: title:insurance, underwriting, personal lines, property, insurance, remote
+I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
 
-## 12. [Senior Policy Forms Analyst, Drafting](https://jobs.ashbyhq.com/kin/88e74de4-9bd4-4a1e-9ad7-e8d28e039b26) — kin
-Score 47 · Remote · salary n/a · 2026-09-30 · ashby
-Why: flood, homeowner, surplus lines, personal lines, property, insurance, remote
+Justin
+```
+</details>
 
-## 13. [Claims Adjuster](https://jobs.ashbyhq.com/steadily/96bb28c7-77fa-4085-b9ab-e7d5348620d9) — steadily
-Score 46 · Overland Park, KS · salary n/a · 2026-03-18 · ashby
-Why: title:claims, title:adjuster, homeowner, property, insurance
+## 3. [Senior Claims Adjuster, Workers Compensation](https://job-boards.greenhouse.io/pieinsurance/jobs/6142332004) — Pie Insurance
+Score 41 · United States · salary n/a · 2026-08-12 · greenhouse
+Why: title:claims, title:adjuster, insurance, carrier, remote
 
-## 14. [Sr. Liability Claims Adjuster](https://jobs.ashbyhq.com/steadily/c70a71c0-c736-456b-be87-d68dd13f4d3f) — steadily
-Score 46 · Overland Park, KS · salary n/a · 2026-03-19 · ashby
-Why: title:claims, title:adjuster, homeowner, property, insurance
+<details><summary>Draft cover letter</summary>
 
-## 15. [Regional Insurance Product Manager (Remote, US)](https://jobs.ashbyhq.com/openly/38bc922c-f47c-46a1-8e08-3154369249d1) — openly
-Score 45 · Remote - United States · salary n/a · 2026-09-03 · ashby
-Why: title:insurance, underwriting, homeowner, insurance, remote
+```
+Hi Pie Insurance team,
 
-## 16. [Insurance Sales Representative (Base Salary + Monthly Incentives)](https://jobs.ashbyhq.com/kin/c69da363-3822-4891-8036-9a3bf5f34f64) — kin
-Score 45 · Remote (United States) · salary n/a · 2026-09-22 · ashby
-Why: title:insurance, homeowner, surplus lines, insurance, remote
+I'm applying for the Senior Claims Adjuster, Workers Compensation role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is property and casualty insurance.
 
-## 17. [Insurance Sales Representative (Base Salary + Monthly Incentives, 11-8PM CST Shift)](https://jobs.ashbyhq.com/kin/b73dd2d8-31af-4b71-acac-d4ff6654d3e4) — kin
-Score 45 · Remote (United States) · salary n/a · 2026-09-22 · ashby
-Why: title:insurance, homeowner, surplus lines, insurance, remote
+What I'd bring on day one:
+- Sound risk decisions made quickly, with clear documentation behind them
+- The ability to explain coverage plainly to agents, insureds and teammates
+- Experience training others and tightening up processes
 
-## 18. [Insurance Product Development Manager](https://jobs.ashbyhq.com/kin/a7e971f3-418d-4836-ba69-d559ac5cd7d9) — kin
-Score 45 · Remote · salary n/a · 2026-10-01 · ashby
-Why: title:insurance, underwriting, homeowner, insurance, remote
+I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
 
-## 19. [Insurance Product Manager, Car](https://jobs.ashbyhq.com/lemonade/8e911c39-caae-43d2-8908-d579a2739a0e) — lemonade
-Score 45 · Remote · salary n/a · 2026-10-02 · ashby
-Why: title:insurance, underwriting, personal lines, insurance, remote
+Justin
+```
+</details>
 
-## 20. [Associate Insurance Product Manager, Car](https://jobs.ashbyhq.com/lemonade/70be3cf8-107a-4352-bdbe-648de1040e33) — lemonade
-Score 45 · Remote · salary n/a · 2026-10-02 · ashby
-Why: title:insurance, underwriting, personal lines, insurance, remote
+## 4. [Senior Insurance Product Manager](https://jobs.ashbyhq.com/steadily/a1c8d633-9816-40c4-8a41-4aa6bb098463) — steadily
+Score 41 · Overland Park, KS · salary n/a · 2026-06-04 · ashby
+Why: title:insurance, underwriting, property, insurance, remote
 
-## 21. [Senior Insurance Product Manager, Car](https://jobs.ashbyhq.com/lemonade/6e579892-c0f2-43a8-b80e-5411ece5e0bb) — lemonade
-Score 45 · Remote · salary n/a · 2026-10-02 · ashby
-Why: title:insurance, underwriting, personal lines, insurance, remote
+<details><summary>Draft cover letter</summary>
 
-## 22. [Insurance Product Manager](https://jobs.ashbyhq.com/steadily/43afcf53-e441-49ed-ade0-b77eca3e1a6e) — steadily
-Score 45 · Overland Park, KS · salary n/a · 2026-03-19 · ashby
-Why: title:insurance, underwriting, personal lines, insurance, remote
+```
+Hi steadily team,
 
-## 23. [Insurance Sales Agent](https://jobs.ashbyhq.com/steadily/75090fab-8a98-4365-83a5-84ae76b326a3) — steadily
-Score 44 · Overland Park, KS · salary n/a · 2026-03-19 · ashby
-Why: title:insurance, homeowner, personal lines, property, insurance
+I'm applying for the Senior Insurance Product Manager role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
 
-## 24. [Bilingual Licensed Customer Service Agent (8am - 5pm CST)](https://jobs.ashbyhq.com/kin/995dd6f0-31f9-4d06-be44-78b165a90610) — kin
-Score 42 · Remote (United States) · salary n/a · 2026-09-15 · ashby
-Why: title:customer service, underwriting, homeowner, personal lines, property, insurance, remote
+What I'd bring on day one:
+- Sound risk decisions made quickly, with clear documentation behind them
+- The ability to explain coverage plainly to agents, insureds and teammates
+- Experience training others and tightening up processes
 
-## 25. [Senior Insurance Product Analyst](https://jobs.ashbyhq.com/steadily/bd3f407b-da78-4ca4-adbe-23975880bd1e) — steadily
-Score 42 · Overland Park, KS · salary n/a · 2026-06-04 · ashby
-Why: title:insurance, underwriting, personal lines, insurance
+I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
+
+Justin
+```
+</details>
+
+## 5. [VP, Insurance Data Science](https://jobs.ashbyhq.com/openly/4647f9c5-0eb4-4770-8b43-e21d45215f95) — openly
+Score 38 · Remote - United States · salary n/a · 2026-09-28 · ashby
+Why: title:insurance, underwriting, homeowner, personal lines, insurance, remote, penalty:vp
+
+<details><summary>Draft cover letter</summary>
+
+```
+Hi openly team,
+
+I'm applying for the VP, Insurance Data Science role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
+
+What I'd bring on day one:
+- Sound risk decisions made quickly, with clear documentation behind them
+- The ability to explain coverage plainly to agents, insureds and teammates
+- Experience training others and tightening up processes
+
+I'm based in Broussard, Louisiana (Central Time) and can start immediately. I'd welcome a short call.
+
+Justin
+```
+</details>
+
+## 6. [Associate Claims Adjuster](https://jobs.ashbyhq.com/steadily/13284cc1-501c-45ac-869f-cff914399363) — steadily
+Score 38 · Overland Park, KS · salary n/a · 2026-03-18 · ashby
+Why: title:claims, title:adjuster, property, insurance
+
+## 7. [Insurance Coverage and Compliance Analyst](https://jobs.ashbyhq.com/steadily/83ca9ee8-7070-488b-8afd-54daf07f555b) — steadily
+Score 38 · Overland Park, KS · salary n/a · 2026-03-18 · ashby
+Why: title:insurance, underwriting, property, insurance
+
+## 8. [CA - Claims Adjuster, Workers Compensation](https://job-boards.greenhouse.io/pieinsurance/jobs/6133203004) — Pie Insurance
+Score 37 · United States · salary n/a · 2026-08-03 · greenhouse
+Why: title:claims, title:adjuster, insurance, remote
+
+## 9. [Pricing & Risk Manager](https://jobs.ashbyhq.com/kin/b57a211e-e87a-4afd-8eee-a4603a08982c) — kin
+Score 37 · Remote (United States) · salary n/a · 2026-09-21 · ashby
+Why: title:risk, underwriting, homeowner, insurance, remote
+
+## 10. [Insurance Counsel - Forms Drafting](https://jobs.ashbyhq.com/kin/d25ca9ab-b111-4fa7-86d8-9381dc5fac79) — kin
+Score 37 · Remote · salary n/a · 2026-09-30 · ashby
+Why: title:insurance, underwriting, flood, homeowner, surplus lines, personal lines, property, insurance, remote, penalty:counsel
+
+## 11. [Complex Claims Specialist (Cyber), France (M/W)](https://www.coalitioninc.com/job-posting?gh_jid=4730644005) — Coalition, Inc.
+Score 36 · Any location, France · salary n/a · 2026-09-03 · greenhouse
+Why: title:claims, underwriting, insurance, carrier, remote
+
+## 12. [Claims Team Lead](https://jobs.ashbyhq.com/steadily/29172e49-78aa-461f-afb2-885831b57860) — steadily
+Score 35 · Overland Park, KS · salary n/a · 2026-09-09 · ashby
+Why: title:claims, homeowner, property, insurance, carrier
+
+## 13. [Senior Car Insurance Pricing Expert](https://jobs.ashbyhq.com/lemonade/e0559560-e074-4993-9f2d-65d706708f28) — lemonade
+Score 34 · TLV · salary n/a · 2026-05-17 · ashby
+Why: title:insurance, underwriting, insurance
+
+## 14. [Actuarial Analyst II](https://jobs.ashbyhq.com/openly/2344a1b1-8bc5-4823-9431-7e9550df4a18) — openly
+Score 33 · Remote - United States · salary n/a · 2026-09-23 · ashby
+Why: underwriting, homeowner, personal lines, insurance, remote
+
+## 15. [Director of Reinsurance and Capacity](https://jobs.ashbyhq.com/steadily/6be9da4d-5b84-4b58-8286-c01422ce940d) — steadily
+Score 32 · Overland Park, KS · salary n/a · 2026-08-20 · ashby
+Why: title:insurance, underwriting, property, insurance, carrier, penalty:director
+
+## 16. [Insurance Product Analyst](https://jobs.ashbyhq.com/steadily/8ef15f89-cbde-4f77-9728-2b9baa944b25) — steadily
+Score 32 · Overland Park, KS · salary n/a · 2026-06-04 · ashby
+Why: title:insurance, personal lines, insurance
