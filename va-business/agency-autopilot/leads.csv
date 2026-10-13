@@ -29,12 +29,12 @@ A,Harry Robert Insurance Agency,Gonzales,Baton Rouge,,info@robertinsurance.com,a
 A,America's Choice Insurance Agency,St. Amant,Baton Rouge,,info@americaschoiceagency.com,agency site,(225) 644-4990,americaschoiceagency.com,PIA member,sent
 A,Goudeau Insurance Agency,Hammond,Northshore,,goudeauinsurance@gmail.com,directory (3 sources),(985) 542-0042,goudeauinsurance.com,109 W Minnesota Park Ste 3; PIA member,sent
 A,Trinity Insurance Agency,Houma,Bayou,,houma@trinitycoverage.com,agency site,(985) 262-1435,trinitycoverage.com,also Cut Off LA; PIA member,sent
-A,Charles A. Page & Sons Insurance,Houma,Bayou,Brennan,quotes@cpageinsurance.com,agency site,(985) 872-5711,cpageinsurance.com,family owned; brennan@cpageinsurance.com for personal lines; PIA member,sent
+A,Charles A. Page & Sons Insurance,Houma,Bayou,Brennan,quotes@cpageinsurance.com,agency site,(985) 872-5711,cpageinsurance.com,family owned; brennan@cpageinsurance.com for personal lines; PIA member,bounced
 A,Toups Insurance Agency,Thibodaux,Bayou,,info@toupsins.com,agency site,(985) 446-4060,toupsins.com,121 E Bayou Rd; PIA member,sent
 A,Bayou Insurance Services,Thibodaux,Bayou,Jimmy,jimmy@bayouinsure.com,agency site,(985) 446-1664,bayouinsure.com,also BR and Vacherie; PIA member,sent
 A,TWFG Landeche Insurance,Metairie / Mandeville,New Orleans,Ronald Landeche (Branch Owner),rlandeche@twfg.com,agency site,(504) 228-7184,landecheinsurance.com,Mandeville (985) 228-6869; PIA member,sent
 A,NOLA Insurance,Mandeville,Northshore,Ray,ray@nolainsurance.com,agency site,,nolainsurance.com,1011 N Causeway Blvd Ste 9; staff address,sent
-A,Hudson-Silver Insurance Agency,Shreveport,North LA,,hudson@hudsonsilver.net,agency site,(318) 686-7700,hudsonsilver.net,family owned since 1974; PIA member,sent
+A,Hudson-Silver Insurance Agency,Shreveport,North LA,,hudson@hudsonsilver.net,agency site,(318) 686-7700,hudsonsilver.net,family owned since 1974; PIA member,bounced
 B,TSL Insurance Group,Lafayette,Acadiana,Ryan Thomson (President),rthomson@tslins.com,agency site,(337) 262-0511,tslins.com,multi-office (Lafayette/Abbeville/Franklin/BR); larger shop; general lafayette@tslins.com,new
 B,Quality Plus Insurance (Hilb Group),Lafayette,Acadiana,,insurance@qpiins.com,agency site,(337) 233-9925,qualityplusinsurance.com,owned by Hilb Group; 18 staff; corporate buyer,new
 B,Bridgeway Insurance Agency,Monroe / Shreveport / Thibodaux,North LA,,quote@bridgewayins.com,agency site,(877) 418-2484,bridgewayins.com,HQ Bay St Louis MS,new
@@ -183,8 +183,8 @@ C,Lewis Insurance Agency of Angie,Angie,Northshore,,,,(985) 986-2468,,PIA member
 A,The Brunt Group,Lafayette,Acadiana,Jennifer,jennifer@thebruntgroup.com,agency site,(337) 886-9431,thebruntgroup.com,405 Chateau Pl,sent
 A,Cypress Insurance & Benefits Advisors,Lafayette,Acadiana,,info@ciba-la.com,agency site,(337) 234-2600,ciba-la.com,701 Robley Dr Ste 140; PIA member,sent
 A,Southgate Insurance Agency,Houma,Bayou,Hollyn Use' (Owner),support@southgateagency.com,agency site,(985) 262-0406,southgateagency.com,120 Progressive Blvd Ste 101,sent
-A,Kelly Lee Insurance (TWFG),Lake Charles,Southwest LA,Kelly Lee,kelee@twfg.com,agency site,(337) 656-2890,kellyleeinsurance.com,3205 Ryan St,sent
-A,Insurance World,Lake Charles,Southwest LA,,customerservice@insurance-world.com,agency site,(337) 478-6767,insurance-world.com,5640 Gerstner Memorial Blvd,sent
+A,Kelly Lee Insurance (TWFG),Lake Charles,Southwest LA,Kelly Lee,kelee@twfg.com,agency site,(337) 656-2890,kellyleeinsurance.com,3205 Ryan St,bounced
+A,Insurance World,Lake Charles,Southwest LA,,customerservice@insurance-world.com,agency site,(337) 478-6767,insurance-world.com,5640 Gerstner Memorial Blvd,bounced
 C,Southwest Insurance Services,Lafayette,Acadiana,,,,(337) 267-4610,swinsuranceco.com,1313 Lafayette St,new
 C,J. Maxime Roy Insurance,Lafayette,Acadiana,,,,(337) 235-7548,,900 S College Rd #302,new
 C,Poche & Prejean Insurance,Lafayette,Acadiana,,,,(337) 237-3235,,2517 W Pinhook Rd,new
