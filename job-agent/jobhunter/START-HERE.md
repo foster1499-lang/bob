@@ -4,9 +4,24 @@ Job Hunter searches Indeed (and LinkedIn/ZipRecruiter/Google Jobs when they allo
 
 ## You need
 
-- A Windows or Mac computer
-- Python (free): https://www.python.org/downloads/ - on Windows, tick **"Add Python to PATH"** on the first install screen
+- A Windows or Mac **computer** (this will not run on a phone or tablet)
+- Python (free) - install it first, steps below
 - Nothing else. No accounts, no API keys, no plugins.
+
+## Step 0 - Install Python (5 min, one time)
+
+The link opens a web page, not the installer. The installer is a file you download from that page.
+
+**Windows**
+1. Go to https://www.python.org/downloads/
+2. Click the big yellow **Download Python 3.x.x** button. A file like `python-3.x.x-amd64.exe` downloads.
+3. Open that file (it's in your Downloads folder, or click it at the bottom/top of your browser).
+4. **This is the install screen.** At the bottom, check the box **"Add python.exe to PATH"**. Don't skip this.
+5. Click **Install Now**. Click **Yes** if Windows asks. Wait for "Setup was successful", then **Close**.
+
+**Mac**
+1. Go to https://www.python.org/downloads/ and click the yellow **Download Python 3.x.x** button.
+2. Open the downloaded `.pkg` file and click **Continue** through each screen, then **Install**. No checkbox needed on Mac.
 
 ## Step 1 - Fill in your info (10 min)
 
@@ -45,7 +60,8 @@ Run it every morning - it only pulls jobs posted in the last 3 days.
 
 ## If something breaks
 
-- "Python is not installed" / "python not recognized": reinstall Python and tick "Add Python to PATH".
+- "Python is not installed" / "python not recognized": run the Python installer again, check **"Add python.exe to PATH"**, install.
+- "Python was not found; run without arguments to install from the Microsoft Store": Settings -> Apps -> Advanced app settings -> App execution aliases -> turn OFF both "python" switches, then run again.
 - 0 results: add more `search_terms`, change `hours_old` to 168 (one week).
 - Red `403` / `429` lines: LinkedIn/ZipRecruiter blocking - normal. Indeed results still come through.
 - Anything else: paste the error into claude.ai and ask what to do.
