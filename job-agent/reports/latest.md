@@ -1,17 +1,17 @@
-# Job matches: 2026-10-29 18:39 UTC
+# Job matches: 2026-10-30 18:12 UTC
 
-1 new matches out of 397 jobs scanned.
+1 new matches out of 396 jobs scanned.
 
-## 1. [CLX Property Advocate, NL](https://jobs.ashbyhq.com/lemonade/e49f343d-53a2-4cd0-a65e-fb25588e01b9) — lemonade
-Score 37 · EU · salary n/a · 2026-10-29 · ashby
-Why: title:property, underwriting, personal lines, insurance
+## 1. [Licensed Insurance Agent (Customer Service)](https://jobicy.com/jobs/154216-licensed-insurance-agent-customer-service) — Matic
+Score 45 · USA · $24-32 hourly · 2026-10-30 · jobicy
+Why: title:insurance, title:customer service, personal lines, property, insurance, carrier
 
 <details><summary>Draft cover letter</summary>
 
 ```
-Hi lemonade team,
+Hi Matic team,
 
-I'm applying for the CLX Property Advocate, NL role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is homeowner and property underwriting.
+I'm applying for the Licensed Insurance Agent (Customer Service) role. I bring 10+ years in insurance, most recently as a Brokerage Placement Specialist, E&S Property at Farmers Insurance Group, and before that as a Multi-Line Insurance Agent at a State Farm agency. My core strength is property and casualty insurance.
 
 What I'd bring on day one:
 - Sound risk decisions made quickly, with clear documentation behind them
